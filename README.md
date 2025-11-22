@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me :<br>|  Medium: where I write my way into 2026 internships <br>| Internship Strategist | One Article = One Internship System | Turning Projects + Articles into 2026 Tech Internships | Growing Together 2026 |</h3>
+<h3 align="left">👩‍💻  About Me :<br>|  Medium: where I write my way into 2026 internships | <br>| Internship Strategist | One Article = One Internship System | Turning Projects + Articles into 2026 Tech Internships | Growing Together 2026 |</h3>
 
 ###
 
